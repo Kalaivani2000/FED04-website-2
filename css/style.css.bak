@@ -1,0 +1,398 @@
+/*------------container & grid---------*/
+.container{
+	   width:1170px;
+	   padding:0 15px;
+	   margin:0 auto;
+	   padding-left:15px;
+	   padding-right:15px;
+}
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+}
+.col-lg-1{
+	  width:8.33%;
+	  padding:0 15px;
+}
+.col-lg-2{
+	  width:16.66%;
+	  padding:0 15px;
+}
+.col-lg-3{
+	  width:25%;
+	  padding:0 15px;
+}
+.col-lg-4{
+	  width:33.33%;
+	  padding:0 15px;
+}
+.col-lg-5{
+	  width:41.66%;
+	  padding:0 15px;
+}.col-lg-6{
+	  width:50%;
+	  padding:0 15px;
+}
+.col-lg-7{
+	  width:58.33%;
+	  padding:0 15px;
+}
+.col-lg-8{
+	  width:66.66%;
+	  padding:0 15px;
+}
+.col-lg-9{
+	  width:75%;
+	  padding:0 15px;
+}
+.col-lg-10{
+	  width:83.33%;
+	  padding:0 15px;
+}
+.col-lg-11{
+	  width:91.66%;
+	  padding:0 15px;
+}.
+.col-lg-12{
+	  width:100%;
+	  padding:0 15px;
+}
+
+
+/*----------------header section---------*/
+.header{
+	 background-color:white;
+}
+.logo{
+	 background-color:#9a1a64;
+     height:70px;
+}
+.logo-menu{
+	 background-color:#9a1a64;
+	 height:70px;
+	 margin-bottom:20px;
+}
+	 
+	 
+	 
+     
+/*----------------banner section---------*/
+.banner{
+	background-color:#ddeefc;
+	padding-bottom:20px;
+	padding-top:20px; 
+	
+}
+.banner-content{
+	 background-color:#558ebb3d;
+     height:400px;
+	 
+}
+.banner-info{
+	 background-color:#558ebb3d;
+     height:400px;
+}
+
+
+/*----------------about section---------*/
+.about{
+	background-color:white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.about-content{
+	 background-color:#ca6161;
+     height:400px;
+     margin-bottom:20px;
+	 margin-top:20px;
+}
+
+
+/*----------------value section---------*/
+.value{
+	    padding:0 15px;
+		background-color:white;
+}
+.value-content{
+	    background-color:#8eaca9;
+		height:100px;
+}
+.value-info{
+	    background-color:#ccc;
+		height:300px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+
+/*----------------value section---------*/
+.client{
+	    padding:0 15px;
+		background-color:white;
+}
+.client-logo{
+	    background-color:#c59595;
+        height:80px;
+        margin-bottom:20px;
+}
+
+
+/*----------------features section---------*/
+.features-content{
+	    background-color:#784481;
+		height:100px;
+}
+.feat-content{
+	    background-color:#ccc;
+		height:400px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+.features-info {
+    background-color: #ccc;
+	height:100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+	
+}
+
+/*----------------passage section---------*/
+.passage{
+	background-color:white;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.passage-content{
+	 background-color:#ca5151;
+     height:400px;
+     margin-bottom:20px;
+	 margin-top:20px;
+}
+
+/*----------------block section---------*/
+.block-content{
+	    background-color:#b71cd1;
+		height:100px;
+}
+.bk-content{
+	    background-color:#ccc;
+		height:400px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+.block-info {
+    background-color: #ccc;
+	height:100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+	
+}
+
+
+/*------------service section-----*/	
+.service{
+      margin-top:30px;
+}	  
+.service-content{
+	    background-color:#784481;
+		height:100px;
+}
+.ser-content{
+	    background-color:#ccc;
+		height:300px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+
+/*------------pricing section-----*/	
+.pricing{
+	    padding:0 15px;
+		background-color:white;
+		padding-top:20px;
+}
+.pricing-content{
+	    background-color:#9210a7;
+		height:100px;
+}
+.pric-content{
+	    background-color:#ccc;
+		height:500px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+
+/*-------------frequently section-----*/	
+.frequently{
+	    padding:0 15px;
+		background-color:white;
+		padding-top:20px;
+}
+.question-content{
+	    background-color:#ac6990;
+		height:100px;
+}
+.quiz-content{
+	    background-color:#ccc;
+		height:400px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+/*-------------portfolio section-----*/	
+.portfolio{
+      margin-top:30px;
+}	  
+.port-content{
+	    background-color:#b117173b;
+		height:100px;
+}
+.folio-content{
+	    background-color:#ccc;
+		height:300px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+
+/*-------------testimonial section-----*/	
+.testimonial{
+	    padding:0 15px;
+		background-color:white;
+}
+.test-content{
+	    background-color:#57cabe;
+		height:100px;
+}
+.mon-content{
+	    background-color:#ccc;
+		height:300px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+/*-------------team section-----*/
+.team{
+	    padding:0 15px;
+		background-color:white;
+		padding-top:20px;
+		padding-bottom:20px;
+}
+.team-content{
+	    background-color:#673ab7;
+		height:100px;
+}
+.info-content{
+	    background-color:#ccc;
+		height:400px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+/*----------------our clientsection---------*/
+.client{
+	    padding:0 15px;
+		background-color:white;
+}
+.client-content{
+	    background-color:#7d5abd;
+		height:100px;
+}
+.client-logo{
+	    background-color:#ccc;
+		height:80px;
+		margin-top:20px;
+}
+
+/*------------blog section--------------*/	
+.blog{
+	    padding:0 15px;
+		background-color:white;
+}
+.blog-content{
+	    background-color:#afb34e;
+		height:100px;
+}
+.log-content{
+	    background-color:#ccc;
+		height:400px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+
+/*-------------contact section------*/
+.contact{
+	    padding:0 15px;
+		background-color:white;
+		
+}
+.contact-content{
+	    background-color:blue;
+		height:100px;
+		margin-bottom:20px;
+		margin-top:20px;
+}
+
+.contact-info{
+	    background-color:red;
+		height:236px;
+		margin-bottom:20px;
+		margin-top:20px;
+		
+}
+.add-info{
+	    background-color:#ccc;
+		height:100px;
+		margin-bottom:20px;
+		margin-top:20px;
+		
+}
+
+
+/*----------------newsletter section---------*/
+.newsletter{
+	background-color:#ddeefc;
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+.newsletter-content{
+	 background-color:#ca5151;
+     height:100px;
+     margin-bottom:20px;
+	 margin-top:20px;
+}
+.newsletter-info{
+	 background-color:#4c3030;
+     height:80px;
+     margin-bottom:20px;
+	 margin-top:20px;
+}
+
+
+/*----------------flex section---------*/
+.flex{
+	background-color:white;
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+.flex-content{
+	    background-color:#784481;
+		height:300px;
+}
+
+/*----------------footer section---------*/
+.footer{
+	background-color:#ddeefc;
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+.footer-content{
+	 background-color:#ca5151;
+     height:100px;
+     margin-bottom:20px;
+	 margin-top:20px;
+}

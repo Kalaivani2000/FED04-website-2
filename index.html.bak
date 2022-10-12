@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <title>Website</title>
+	   <meta charset="utf-8">
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	   <link rel="stylesheet" href="css/reset.css">
+	   <link rel="stylesheet" href="css/style.css">
+	</head>
+	    <body>
+		<!----------------header section starts------------>
+		<section class="header">
+		    <div class="container">
+			    <div class="row">
+			        <div class="col-lg-3">
+				        <div class="logo">
+						</div>
+					</div>
+						<div class="col-lg-9">
+						    <div class="logo-menu">
+						    </div>
+						</div>
+				</div>
+			</div>
+	    </section>
+		<!----------------header section end------------>
+		
+		<!----------------banner section starts------------>
+		<section>
+		    <div class="banner">
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-lg-9">
+						    <div class="banner-content">
+							</div>
+						</div>
+						    <div class="col-lg-3">
+							    <div class="banner-info">
+								</div>
+							</div>
+	                </div>			
+				</div>
+			</div>
+		</section>
+		<!----------------banner section end------------>
+		
+		
+		<!----------------about section starts------------>
+		<section>
+		    <div class="About">
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-lg-6">
+						    <div class="about-content">
+						    </div>
+						</div>
+						<div class="col-lg-6">
+						    <div class="about-content">
+						    </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!----------------about section end------------>
+		
+		
+		
+	    <!----------------value section starts------------>
+		<section class="value">
+		    <div class="container">
+			    <div class="value-content">
+			    </div>
+				<div class="row">
+				        <div class="col-lg-4">
+					       <div class="value-info">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="value-info">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="value-info">
+					       </div>
+				        </div>
+				</div>
+			</div>
+		 </section>	
+		<!----------------value section end------------>
+		
+		
+        <!---------------- client section starts------------------------>  		
+		<section class="client">
+		   <div class="container">
+			    <div class="row">
+			        <div class="col-lg-3">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				    <div class="col-lg-3">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+		            <div class="col-lg-3">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				    <div class="col-lg-3">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				</div>
+		    </div>
+		</section>
+	    <!---------------- client section end------------------------>  
+		
+		
+		<!---------------- features section starts------------------------> 
+		<section class="features">
+		    <div class="container">
+			    <div class="features-content">
+				</div>
+				    <div class="row">
+					    <div class="col-lg-6">
+						    <div class="feat-content">
+						    </div>
+						</div>
+						<div class="col-lg-6">
+						    <div class="row">
+							     <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="features-info">
+									</div>
+						         </div>
+								 
+							
+						    </div>
+						</div>
+					</div>
+			</div>
+			</div>
+		</section>
+        
+		<!---------------- features section end------------------------>  
+		
+		
+		<!---------------- passage section starts------------>
+		<section class="passage">
+			    <div class="container">
+				    <div class="row">
+					    <div class="col-lg-6">
+						    <div class="passage-content">
+						    </div>
+						</div>
+						<div class="col-lg-6">
+						    <div class="passage-content">
+						    </div>
+						</div>
+					</div>
+				</div>
+			
+		</section>
+		<!----------------passage section end------------>
+		
+		
+		<!---------------- block section starts------------------------> 
+		<section class="block">
+		    <div class="container">
+			    <div class="block-content">
+				</div>
+				    <div class="row">
+					    <div class="col-lg-6">
+						    <div class="bk-content">
+						    </div>
+						</div>
+						<div class="col-lg-6">
+						    <div class="row">
+							     <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 <div class="col-lg-6">
+						            <div class="block-info">
+									</div>
+						         </div>
+								 
+							
+						    </div>
+						</div>
+					</div>
+			</div>
+			</div>
+		</section>
+        
+		<!---------------- block section end------------------------>  
+		
+		<!---------------- service section start-------------------------->  
+        <section class="service">
+		    <div class="container">
+		        <div class="service-content">
+			    </div>
+				   <div class="row">
+				      <div class="col-lg-4">
+			              <div class="ser-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="ser-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			             <div class="ser-content">
+				         </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="ser-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="ser-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="ser-content">
+				          </div>
+			          </div>
+				 </div>
+		    </div>
+		</section>	
+        <!---------------- service section end-------------------------->
+		
+		<!---------------- pricing section start--------------------------> 
+         <section class="pricing">
+		    <div class="container">
+			    <div class="pricing-content">
+			    </div>
+				<div class="row">
+				        <div class="col-lg-3">
+					       <div class="pric-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-3">
+					       <div class="pric-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-3">
+					       <div class="pric-content">
+					       </div>
+				        </div>
+						<div class="col-lg-3">
+					       <div class="pric-content">
+					       </div>
+				        </div>
+				</div>
+			</div>
+		 </section>	
+		<!---------------- pricing section end-------------------------->
+		
+		
+		<!---------------- frequently section start--------------------------> 	
+          <section class="frequently">
+		    <div class="container">
+			    <div class="question-content">
+                </div>
+                    <div class="quiz-content">
+                    </div>		
+            </div>
+          </section>	
+        <!---------------- frequently section end-------------------------->
+		
+		<!---------------- portfolio section start-------------------------->  
+        <section class="portfolio">
+		    <div class="container">
+		        <div class="port-content">
+			    </div>
+				   <div class="row">
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			             <div class="folio-content">
+				         </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+				      <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			          </div>
+			          <div class="col-lg-4">
+			              <div class="folio-content">
+				          </div>
+			         </div>
+				 </div>
+		    </div>
+		</section>	
+        <!---------------- portfolio section end-------------------------->
+		
+		
+		<!---------------- testimonials section start-------------------------->  
+           	<section class="testimonial">
+		    <div class="container">
+			    <div class="test-content">
+			    </div>
+				<div class="row">
+				        <div class="col-lg-4">
+					       <div class="mon-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="mon-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="mon-content">
+					       </div>
+				        </div>
+				</div>
+			</div>
+		 </section>	
+		<!---------------- testimonials section end-------------------------->
+		
+		
+		<!---------------- team section start-------------------------->
+           <section class="team">
+                <div class="container">
+				    <div class="team-content">
+					</div>
+			            <div class="row">
+			                <div class="col-lg-3">
+			                    <div class="info-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-3">
+			                    <div class="info-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-3">
+			                    <div class="info-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-3">
+			                    <div class="info-content">
+				                </div>
+			                </div>
+						</div>
+			   </div>   
+           </section> 
+        <!---------------- team section end-------------------------->	
+		
+		
+        <!---------------- our client section starts------------------------>  		
+		<section class="client">
+		   <div class="container">
+		      <div class="client-content">
+			   </div>
+			    <div class="row">
+			        <div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				    <div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+		            <div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				    <div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+					<div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+					<div class="col-lg-2">
+				        <div class="client-logo">
+				        </div>
+				    </div>
+				</div>
+		    </div>
+		</section>
+	    <!---------------- client section end------------------------>  
+		
+		<!---------------- blog section start-------------------------->  
+        <section class="blog">
+		    <div class="container">
+			    <div class="blog-content">
+			    </div>
+				<div class="row">
+				        <div class="col-lg-4">
+					       <div class="log-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="log-content">
+					       </div>
+				        </div>
+				        <div class="col-lg-4">
+					       <div class="log-content">
+					       </div>
+				        </div>
+				</div>
+			</div>
+		 </section>	
+		<!---------------- blog section end-------------------------->
+		
+		<!----------------contact section start------------------------------>
+		<section class="contact">
+			<div class="container">
+				<div class="contact-content"> 
+                </div>				
+				    <div class="row">
+					    <div class="col-lg-6">
+						    <div class="row">
+								    <div class="col-lg-6">
+								        <div class="add-info">
+									    </div>
+								    </div>
+								    <div class="col-lg-6">
+								        <div class="add-info">
+                                        </div>
+							        </div>
+						
+								    <div class="col-lg-6">
+								        <div class="add-info">
+									    </div>
+								    </div>
+								    <div class="col-lg-6">
+								        <div class="add-info">
+									    </div>
+								    </div>
+						    </div>
+						</div>
+						
+						<div class="col-lg-6">
+						    <div class="contact-info">
+						    </div>
+						</div>
+					</div>
+			</div>
+		</section>
+		<!------------------contact section end----------------------------->
+		
+		
+		<!---------------- newsletter section starts------------>
+		<section class="newsletter">
+			    <div class="container">
+				    <div class="newsletter-content">
+				    </div>
+				    <div class="row">
+					    <div class="col-lg-11">
+						    <div class="newsletter-info">
+						    </div>
+						</div>
+					</div>
+				</div>
+		</section>
+		<!----------------newsletter section end------------>
+		
+		<!---------------- flex section starts------------------------> 
+		<section class="flex">
+		    <div class="container">
+				    <div class="row">
+			                <div class="col-lg-6">
+			                    <div class="flex-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-2">
+			                    <div class="flex-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-2">
+			                    <div class="flex-content">
+				                </div>
+			                </div>
+				            <div class="col-lg-2">
+			                    <div class="flex-content">
+				                </div>
+			                </div>
+					</div>
+			</div>   
+        </section> 
+	<!---------------- flex section end------------------------>  
+	
+	<!----------------footer section starts--------------------->
+	    <section class="footer">
+		    <div class="container">
+				    <div class="row">
+			            <div class="col-lg-6">
+			                <div class="footer-content">
+				            </div>
+			            </div>
+					</div>
+
+			</div>
+	    </section>
+	<!----------------footer section ends--------------------->
+	
+		
+		</body>
+</html>
